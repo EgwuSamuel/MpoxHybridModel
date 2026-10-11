@@ -1,0 +1,16 @@
+# Versions of the Kaggle environment that produced the stored results (Python 3.13).
+tensorflow==2.20.0
+tf-keras==2.20.1
+transformers==4.46.3
+tokenizers==0.20.3
+huggingface_hub==0.24.6
+numpy==2.1.3
+scikit-learn==1.6.1
+pandas>=2.0.0
+scipy>=1.11.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+opencv-python>=4.8.0
+ImageHash>=4.3.1
+Pillow
+kaggle

@@ -1,0 +1,22 @@
+# datasets and generated images (public data, not redistributed)
+data/
+protocolB_images/
+
+# training outputs written by the notebooks
+saved_models/
+results/cv_checkpoints/
+results/comparative/
+*.tflite
+*.h5
+*.zip
+
+# Python and Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# result files, figures and derived numbers are not kept in the repository
+results/
+figures/
+analysis/*.json
+analysis/*.csv
